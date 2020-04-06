@@ -1,0 +1,9 @@
+name: zepetoPetMenu
+main: zepeto\PetMenu
+api: 3.0.0
+version: 1.14.0
+author: zepeto
+
+commands:
+  펫:
+    description: 펫메뉴
